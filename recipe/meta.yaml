@@ -219,11 +219,3 @@ about:
   license: NCSA
   license_file: LICENSE.TXT
   summary: Development headers and libraries for Clang
-
-extra:
-  recipe-maintainers:
-    - inducer
-    - isuruf
-    - jakirkham
-    - mattwala
-    - SylvainCorlay
